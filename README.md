@@ -8,7 +8,7 @@ Starting from : July 20, 2022
 <p align="left">A personal portfolio.</p>
 
 <p align="center">
-Last Updated : June 25, 2023
+Last Updated : November 05, 2023
 </p>
 <p align="center">
 v1.0.1.0
